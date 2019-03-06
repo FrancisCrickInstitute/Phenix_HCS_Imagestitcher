@@ -32,6 +32,8 @@ This package relies on the following dependencies:
 
 Calling the function
 --------------------
+Start by navigating to `./src/data/`
+
 The function `PE_phenix_stack_stitcher.py` takes two arguments:
 1) Input Path to Images Folder
 2) Output Path to where stitched images go
