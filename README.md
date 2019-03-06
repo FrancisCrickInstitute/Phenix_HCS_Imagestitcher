@@ -5,7 +5,7 @@ This is a data science pipeline to allow for the reconstruction of stitched imag
 
 This project is organised as a data-science pipeline to allow for faithful reconstruction of test-data for ease of understanding how these function works. At least, I hope for you!
 
-Happy to be tweeted @ajay_bhargava
+Happy to be tweeted @ajay_bhargava, and please give credit where credit is due. 
 
 
 Project Organization
